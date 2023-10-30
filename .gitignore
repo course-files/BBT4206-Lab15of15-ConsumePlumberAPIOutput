@@ -17,9 +17,3 @@ api_key.txt
 
 # Ignored folders
 roughwork/
-
-# Ignored datasets
-data/listings.csv.gz
-data/online+retail.zip
-Rough-Work.R
-data/~$Online Retail.xlsx
